@@ -2,7 +2,7 @@ Olá! Meu nome é Vitor!
 
 - 👨‍🎓 Cursando Engenharia da Computação - Anhembi Morumbi/2026
 - 🦾 Estagiando atualmente na Secretaria de Saúde de Itumbiara - TI
-- 🤓 Com curiosidade e garra em aprender linguagens de programação
+- 🤓 Com curiosidade e garra para aprender linguagens de programação
 - 📘 Estudando Programação Web (HTML+CSS)
 - 🚀 Buscando novas oportunidades e conexões profissionais
 
